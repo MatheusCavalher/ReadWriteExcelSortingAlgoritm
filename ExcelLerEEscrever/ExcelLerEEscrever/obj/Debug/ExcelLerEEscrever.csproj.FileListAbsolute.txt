@@ -1,0 +1,9 @@
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\bin\Debug\ExcelLerEEscrever.exe.config
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\bin\Debug\ExcelLerEEscrever.exe
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\bin\Debug\ExcelLerEEscrever.pdb
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\bin\Debug\IronXL.dll
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\bin\Debug\IronXL.xml
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\obj\Debug\ExcelLerEEscrever.csprojAssemblyReference.cache
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\obj\Debug\ExcelLerEEscrever.csproj.CopyComplete
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\obj\Debug\ExcelLerEEscrever.exe
+C:\Users\mathe\Documents\projetos-csharp\ExcelLerEEscrever\ExcelLerEEscrever\obj\Debug\ExcelLerEEscrever.pdb

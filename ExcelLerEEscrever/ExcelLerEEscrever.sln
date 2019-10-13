@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLerEEscrever", "ExcelLerEEscrever\ExcelLerEEscrever.csproj", "{23139CF5-6B5B-458B-87F5-52375E8BA0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23139CF5-6B5B-458B-87F5-52375E8BA0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23139CF5-6B5B-458B-87F5-52375E8BA0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23139CF5-6B5B-458B-87F5-52375E8BA0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23139CF5-6B5B-458B-87F5-52375E8BA0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB30413-D919-4E5D-9F58-C8652B90EFD4}
+	EndGlobalSection
+EndGlobal
